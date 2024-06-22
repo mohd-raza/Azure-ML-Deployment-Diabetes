@@ -1,6 +1,6 @@
 {
   "subscription_id": "",
-  "resource_group": "ml-model-deploy-raza",
-  "workspace_name": "deploy-ml-model-deploy-raza",
+  "resource_group": "mlsa-model-deploy-raza",
+  "workspace_name": "deploy-mlsa-model-deploy-raza",
   "region": "centralindia"
 }
